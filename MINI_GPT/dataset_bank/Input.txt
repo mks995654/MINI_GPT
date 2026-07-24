@@ -1,0 +1,1681 @@
+Harsh Bank Knowledge Base
+Version
+
+Version: 1.0
+
+Document Type
+
+Internal Knowledge Base
+
+Purpose
+
+This document provides comprehensive information about Harsh Bank's products, services, policies, digital banking platforms, customer support procedures, and operational guidelines. It is intended to assist customer service representatives, relationship managers, digital banking support teams, and AI-powered customer assistants in answering customer queries accurately and consistently.
+
+1. About Harsh Bank
+Introduction
+
+Harsh Bank is a fictional full-service commercial bank that provides secure, customer-focused, and technology-driven financial services. The bank serves retail customers, businesses, government organizations, and corporate clients through an extensive network of branches, ATMs, digital channels, and customer support centers.
+
+Harsh Bank aims to deliver simple, transparent, and innovative banking solutions while maintaining high standards of customer service, data security, and regulatory compliance.
+
+The bank offers a wide range of financial products including savings accounts, current accounts, salary accounts, fixed deposits, recurring deposits, debit cards, credit cards, personal loans, home loans, auto loans, education loans, digital payment services, internet banking, mobile banking, and wealth management services.
+
+Vision
+
+To become the most trusted digital-first bank by providing secure, innovative, and customer-centric financial services.
+
+Mission
+Deliver reliable banking services.
+Promote financial inclusion.
+Provide secure digital banking.
+Ensure customer satisfaction.
+Maintain regulatory compliance.
+Support economic growth through responsible lending.
+Core Values
+Integrity
+Transparency
+Customer First
+Innovation
+Security
+Accountability
+Excellence
+Banking Channels
+
+Customers can access Harsh Bank services through:
+
+Branch Banking
+Mobile Banking Application
+Internet Banking Portal
+ATM Network
+Customer Care Center
+Relationship Managers
+Business Correspondents
+SMS Banking
+Email Banking
+Banking Hours
+
+Branch Working Hours:
+
+Monday to Friday
+
+9:30 AM to 4:30 PM
+
+Saturday
+
+9:30 AM to 1:00 PM
+
+Sunday
+
+Closed
+
+Digital Banking Services are available 24x7 unless scheduled maintenance is announced.
+
+Customer Support
+
+Customer Care Number:
+1800-000-0000
+
+Email:
+support@harshbank.com
+
+Support Availability:
+24 Hours
+
+Languages Supported:
+
+English
+Hindi
+2. Savings Account
+Overview
+
+The Harsh Bank Savings Account is designed for individuals seeking a secure and convenient way to manage their personal finances. It provides easy access to funds, interest earnings on balances, digital banking facilities, and a range of value-added services.
+
+Eligibility
+
+The following individuals are eligible:
+
+Resident Individuals
+Joint Account Holders
+Senior Citizens
+Minors (with Guardian)
+Students
+Features
+Interest on account balance
+Free Mobile Banking
+Free Internet Banking
+Debit Card
+UPI Services
+SMS Alerts
+Email Alerts
+Passbook Facility
+Online Statement Download
+QR Payments
+Benefits
+Secure deposits
+Easy fund transfer
+Online bill payment
+Cash withdrawal from ATMs
+Investment options
+Instant account statements
+Minimum Balance
+
+Urban Branch
+
+₹10,000
+
+Semi Urban
+
+₹5,000
+
+Rural
+
+₹2,500
+
+Failure to maintain the minimum balance may result in applicable service charges.
+
+Documents Required
+Aadhaar Card
+PAN Card
+Passport
+Driving License
+Voter ID
+Passport-size Photograph
+Address Proof
+Account Opening Process
+
+Step 1
+
+Submit account opening application.
+
+Step 2
+
+Complete KYC verification.
+
+Step 3
+
+Verify mobile number and email.
+
+Step 4
+
+Deposit minimum opening balance.
+
+Step 5
+
+Receive account number.
+
+Step 6
+
+Activate debit card.
+
+Step 7
+
+Register for Mobile Banking.
+
+Interest Rate
+
+Savings accounts earn interest at a variable rate declared by the bank from time to time. Interest is calculated daily on the closing balance and credited quarterly.
+
+Transaction Limits
+
+Cash Deposit per Day:
+₹2,00,000
+
+Cash Withdrawal:
+₹50,000
+
+UPI Daily Limit:
+₹1,00,000
+
+NEFT:
+No maximum limit (subject to regulatory guidelines)
+
+RTGS Minimum:
+₹2,00,000
+
+Frequently Asked Questions
+How long does account opening take?
+
+Usually within one working day after successful KYC verification.
+
+Can I open a joint account?
+
+Yes.
+
+Can minors open accounts?
+
+Yes, with a guardian.
+
+Is Mobile Banking free?
+
+Yes.
+
+Can I convert my account into a salary account?
+
+Yes, subject to employer approval and eligibility.
+
+Common Customer Issues
+
+Issue:
+Unable to login into Mobile Banking.
+
+Possible Cause:
+
+Incorrect MPIN.
+
+Resolution:
+
+Reset MPIN using the Forgot MPIN option.
+
+Issue:
+
+Debit Card not received.
+
+Resolution:
+
+Track dispatch through Internet Banking or contact Customer Care.
+
+Issue:
+
+SMS alerts not received.
+
+Resolution:
+
+Verify registered mobile number and SMS subscription status.
+
+3. Current Account
+Overview
+
+Harsh Bank Current Accounts are designed for businesses, professionals, partnerships, companies, trusts, societies, and organizations that require frequent banking transactions without restrictions on the number of deposits or withdrawals.
+
+Unlike Savings Accounts, Current Accounts do not earn interest but offer higher transaction limits and specialized business banking services.
+
+Eligible Customers
+Proprietorship Firms
+Partnership Firms
+Limited Liability Partnerships (LLPs)
+Private Limited Companies
+Public Limited Companies
+Trusts
+Societies
+Government Organizations
+Educational Institutions
+Non-Profit Organizations
+Features
+Unlimited transactions
+High daily transaction limits
+Multi-user Internet Banking
+Business Debit Card
+Cheque Book Facility
+Cash Management Services
+Bulk Payment Upload
+GST Payment Support
+Vendor Payment Services
+Salary Processing Facility
+Benefits
+Simplified business banking
+Faster payments
+Dedicated Relationship Manager
+Priority customer support
+Online tax payments
+Easy payroll management
+Minimum Average Monthly Balance
+
+Standard Current Account:
+₹25,000
+
+Premium Current Account:
+₹1,00,000
+
+Corporate Current Account:
+₹5,00,000
+
+Failure to maintain the required balance may attract non-maintenance charges.
+
+Documents Required
+
+For Proprietorship Firms:
+
+PAN of proprietor
+Aadhaar of proprietor
+GST Registration (if applicable)
+Business Address Proof
+Business Registration Certificate (if available)
+
+For Partnership Firms:
+
+Partnership Deed
+PAN of Firm
+PAN of Partners
+Address Proof
+GST Registration
+
+For Companies:
+
+Certificate of Incorporation
+PAN Card
+Memorandum and Articles of Association
+Board Resolution
+Authorized Signatory Documents
+Cash Deposit Limits
+
+Standard:
+₹10,00,000 per day
+
+Premium:
+₹25,00,000 per day
+
+Corporate:
+As per approved business relationship.
+
+Frequently Asked Questions
+Does the Current Account earn interest?
+
+No.
+
+Can businesses apply online?
+
+Yes, preliminary registration can be completed online, followed by branch verification.
+
+Is cheque collection available?
+
+Yes, both local and outstation cheque collection services are provided.
+
+4. Salary Account
+Overview
+
+The Harsh Bank Salary Account is a specialized savings account designed for salaried employees whose employers maintain a salary disbursement relationship with Harsh Bank. The account provides banking services with reduced charges, enhanced transaction limits, and exclusive employee benefits.
+
+Salary accounts are available to employees of private companies, public sector organizations, government departments, educational institutions, hospitals, and corporate organizations.
+
+Eligibility
+
+The following customers are eligible:
+
+Salaried Employees
+Government Employees
+PSU Employees
+Private Company Employees
+Contract Employees (Subject to Employer Approval)
+Employees of Partner Organizations
+Features
+Zero Balance Facility (Eligible Employers)
+Free Debit Card
+Free Mobile Banking
+Free Internet Banking
+Unlimited ATM Transactions at Harsh Bank ATMs
+UPI Services
+SMS Alerts
+Email Alerts
+Free Account Statement
+Online Fund Transfers
+Cheque Book Facility
+Benefits
+No account opening charges
+Faster salary credit
+Pre-approved loan offers
+Lower processing fees on selected loans
+Higher ATM withdrawal limits
+Digital banking services
+Easy investment options
+Nomination facility
+Standing Instructions
+Auto Bill Payments
+Salary Credit
+
+Salary is credited based on the employer's payroll processing schedule. Customers receive SMS and email notifications after successful salary credit.
+
+Documents Required
+Aadhaar Card
+PAN Card
+Employee ID Card
+Salary Letter or Employment Letter
+Passport Size Photograph
+Address Proof
+Frequently Asked Asked Questions
+Can I convert my Savings Account into Salary Account?
+
+Yes, subject to employer approval.
+
+What happens after I leave my company?
+
+The account may be converted into a regular Savings Account.
+
+Can I receive salary from multiple employers?
+
+Yes.
+
+Is minimum balance applicable?
+
+Depends on employer agreement.
+
+Common Issues
+Salary Not Credited
+
+Possible Reasons
+
+Employer has not processed payroll.
+Incorrect account number submitted.
+Bank holiday.
+Payroll rejected.
+
+Resolution
+
+Customer should contact employer payroll department first. If payroll has been processed successfully, raise a service request with Customer Care.
+
+Incorrect Salary Amount
+
+Resolution
+
+The bank credits exactly the amount received from employer.
+
+Customer should contact employer HR department.
+
+5. Fixed Deposit (FD)
+Overview
+
+Harsh Bank Fixed Deposit allows customers to invest a fixed amount for a predetermined tenure at a fixed interest rate.
+
+The interest remains unchanged throughout the deposit period unless otherwise specified.
+
+Features
+Guaranteed Returns
+Flexible Tenure
+Monthly Interest Option
+Quarterly Interest Option
+Annual Interest Option
+Cumulative FD
+Premature Withdrawal
+Loan Against FD
+Auto Renewal Facility
+Deposit Amount
+
+Minimum Deposit
+
+₹5,000
+
+Maximum Deposit
+
+No Limit
+
+Tenure
+
+Minimum
+
+7 Days
+
+Maximum
+
+10 Years
+
+Interest Payment Options
+Monthly
+Quarterly
+Half-Yearly
+Annual
+On Maturity
+Premature Closure
+
+Customers can close their FD before maturity.
+
+Penalty may apply according to bank policy.
+
+Loan Against FD
+
+Customers may avail a loan up to 90% of the FD value.
+
+Auto Renewal
+
+Customers can enable auto renewal during FD booking.
+
+Documents Required
+
+Existing Customers
+
+No additional documents.
+
+New Customers
+
+Standard KYC Documents.
+
+Frequently Asked Questions
+Can FD be opened online?
+
+Yes.
+
+Can FD be closed online?
+
+Yes.
+
+Is TDS deducted?
+
+Applicable according to prevailing tax regulations.
+
+Can FD be pledged?
+
+Yes.
+
+Common Issues
+FD not visible
+
+Resolution
+
+Refresh account information or wait after booking.
+
+Interest not credited
+
+Possible Cause
+
+Interest payout date not reached.
+
+6. Recurring Deposit (RD)
+Overview
+
+Recurring Deposit enables customers to save a fixed amount every month while earning interest over the selected tenure.
+
+It is suitable for customers planning systematic savings.
+
+Features
+Monthly Deposit
+Fixed Interest
+Flexible Tenure
+Auto Debit
+Premature Closure
+Nomination Facility
+Online Opening
+Minimum Deposit
+
+₹500
+
+Maximum Deposit
+
+No Limit
+
+Deposit Frequency
+
+Monthly
+
+Tenure
+
+6 Months
+
+12 Months
+
+24 Months
+
+36 Months
+
+60 Months
+
+120 Months
+
+Missed Installments
+
+If monthly installment is not deposited,
+
+Penalty may apply.
+Maturity amount may reduce.
+Continuous default may lead to account closure.
+Premature Closure
+
+Allowed.
+
+Penalty applicable.
+
+Frequently Asked Questions
+Can RD amount be changed?
+
+No.
+
+New RD must be opened.
+
+Can installment be auto-debited?
+
+Yes.
+
+7. Debit Card
+Overview
+
+Harsh Bank Debit Cards provide customers secure access to ATM withdrawals, POS purchases, online shopping, and digital payments.
+
+Card Types
+Classic Debit Card
+Gold Debit Card
+Platinum Debit Card
+Business Debit Card
+Contactless Debit Card
+Features
+Contactless Payments
+ATM Withdrawals
+Online Shopping
+International Usage (Eligible Cards)
+PIN Change
+Card Control
+Tap & Pay
+EMI on Eligible Purchases
+Daily Limits
+
+ATM Withdrawal
+
+₹50,000
+
+POS Purchase
+
+₹2,00,000
+
+Online Shopping
+
+₹2,00,000
+
+Contactless Payment
+
+₹5,000 per tap without PIN (subject to regulations).
+
+Card Activation
+
+Methods
+
+ATM
+Mobile Banking
+Internet Banking
+Customer Care
+PIN Generation
+
+Customers can generate PIN using
+
+ATM
+Mobile Banking
+Internet Banking
+Lost Card
+
+Customer should immediately
+
+Block card
+Contact Customer Care
+Raise replacement request
+Damaged Card
+
+Replacement available.
+
+Charges may apply.
+
+Common Issues
+Card Declined
+
+Possible Reasons
+
+Incorrect PIN
+Card blocked
+Expired card
+Insufficient balance
+Daily limit exceeded
+
+Resolution
+
+Verify reason and retry.
+
+Contactless Payment Failed
+
+Possible Reasons
+
+Merchant terminal not supported.
+Contactless disabled.
+Limit exceeded.
+ATM Cash Not Dispensed
+
+Resolution
+
+Raise ATM dispute.
+
+Expected Resolution
+
+Within 5–7 working days after verification.
+
+8. Credit Card
+Overview
+
+Harsh Bank Credit Cards provide revolving credit for shopping, travel, online purchases, utility payments, and lifestyle spending. Customers receive a monthly billing cycle and can choose to pay the full outstanding amount or the minimum due.
+
+Card Variants
+Silver Credit Card
+Gold Credit Card
+Platinum Credit Card
+Signature Credit Card
+Business Credit Card
+Eligibility
+Minimum age: 21 years
+Valid KYC documents
+Stable income
+Satisfactory credit history
+Employment or business proof
+Features
+Interest-free credit period (up to 45 days)
+Contactless payments
+Online shopping
+EMI conversion on eligible transactions
+Reward points
+Airport lounge access (select cards)
+Fuel surcharge waiver (eligible cards)
+Cashback offers
+Fraud monitoring
+Instant card blocking through mobile banking
+Credit Limit
+
+Credit limits are determined based on:
+
+Income
+Credit score
+Existing liabilities
+Repayment history
+Internal risk assessment
+
+Customers may request a credit limit enhancement after demonstrating good repayment behavior.
+
+Billing Cycle
+
+A statement is generated every month, showing:
+
+Total outstanding balance
+Minimum amount due
+Payment due date
+Available credit limit
+Reward points earned
+Transaction summary
+Payment Methods
+
+Customers can pay their credit card bills using:
+
+Mobile Banking
+Internet Banking
+UPI (where supported)
+NEFT
+Auto-debit from Harsh Bank account
+Branch payment
+Third-party payment platforms
+Lost or Stolen Credit Card
+
+If a customer reports a lost or stolen credit card:
+
+Block the card immediately.
+Verify customer identity.
+Issue a replacement card upon request.
+Review recent transactions for unauthorized activity.
+Raise a fraud investigation if required.
+Common Customer Issues
+Transaction Declined
+
+Possible Reasons:
+
+Credit limit exhausted
+Incorrect CVV
+Incorrect OTP
+International usage disabled
+Merchant restriction
+
+Resolution:
+Verify the cause, update card settings if needed, or request the customer to make a payment to restore available credit.
+
+Payment Not Reflected
+
+Possible Reasons:
+
+Settlement pending
+Payment made through another bank
+Processing delay
+
+Resolution:
+Advise the customer that payments may take up to 2 working days to reflect. If the delay exceeds the expected timeline, raise a service request with the transaction reference number.
+
+Reward Points Not Credited
+
+Possible Reasons:
+
+Transaction not eligible
+Merchant category excluded
+Billing cycle not completed
+
+Resolution:
+Review the transaction eligibility and inform the customer when reward points will be credited.
+
+9. Mobile Banking
+Overview
+
+Harsh Bank Mobile Banking is a secure digital banking platform that enables customers to perform banking transactions anytime and anywhere using the Harsh Bank Mobile Application. Customers can manage accounts, transfer funds, pay bills, invest in deposits, apply for loans, manage debit cards, and access various banking services without visiting a branch.
+
+The application supports Android and iOS devices and uses multi-factor authentication to ensure secure access.
+
+Features
+
+Customers can perform the following activities:
+
+View account balance
+Mini statement
+Detailed account statement
+UPI payments
+IMPS transfer
+NEFT transfer
+RTGS transfer
+Add beneficiary
+Open Fixed Deposit
+Open Recurring Deposit
+Credit Card payment
+Loan EMI payment
+Bill payments
+Recharge mobile
+FASTag recharge
+Manage Debit Card
+Block Debit Card
+Change Debit Card PIN
+Cheque Book request
+Stop cheque payment
+Update email address
+View loan details
+View credit card statement
+Download account statement
+Generate interest certificate
+Download TDS certificate
+Locate branch
+Locate ATM
+Raise complaints
+Track service requests
+Registration Process
+Existing Customer
+
+Step 1
+
+Download Harsh Bank Mobile Banking App.
+
+Step 2
+
+Enter registered mobile number.
+
+Step 3
+
+Verify OTP.
+
+Step 4
+
+Enter Customer ID.
+
+Step 5
+
+Verify Debit Card details.
+
+Step 6
+
+Create MPIN.
+
+Step 7
+
+Login successfully.
+
+New Customer
+
+If customer has recently opened an account,
+
+Mobile Banking registration becomes available after account activation.
+
+Login Authentication
+
+The application supports
+
+MPIN
+Fingerprint Login
+Face Authentication
+OTP Verification
+Device Binding
+Security Features
+End-to-End Encryption
+Secure Session Timeout
+Device Registration
+Rooted Device Detection
+Screenshot Restriction (Sensitive Pages)
+Automatic Logout
+OTP Verification
+Biometric Authentication
+Daily Transaction Limits
+
+UPI
+
+₹1,00,000
+
+IMPS
+
+₹5,00,000
+
+NEFT
+
+₹10,00,000
+
+RTGS
+
+₹25,00,000
+
+Bill Payment
+
+₹2,00,000
+
+Debit Card Control
+
+No Limit
+
+Common Customer Queries
+Unable to Login
+
+Possible Reasons
+
+Incorrect MPIN
+Account Locked
+App Version Outdated
+Server Maintenance
+Internet Connectivity
+
+Resolution
+
+Reset MPIN.
+Update application.
+Retry after maintenance.
+Verify internet connection.
+Forgot MPIN
+
+Resolution
+
+Select
+
+Forgot MPIN
+
+Verify
+
+Debit Card
+OTP
+Customer ID
+
+Create New MPIN.
+
+OTP Not Received
+
+Possible Reasons
+
+Poor Network
+DND Enabled
+Mobile Number Changed
+SIM Not Active
+
+Resolution
+
+Retry after 2 minutes.
+
+Verify registered mobile number.
+
+App Crashes
+
+Possible Reasons
+
+Low Storage
+Unsupported Android Version
+Corrupted Cache
+Outdated App
+
+Resolution
+
+Clear cache.
+Update app.
+Restart device.
+Reinstall application.
+Session Expired
+
+Reason
+
+Inactive for more than 5 minutes.
+
+Resolution
+
+Login again.
+
+Device Already Registered
+
+Reason
+
+Customer changed mobile phone.
+
+Resolution
+
+Complete fresh registration.
+
+Customer ID Not Found
+
+Possible Reasons
+
+Wrong Customer ID
+Recently Opened Account
+Account Not Activated
+
+Resolution
+
+Verify customer information.
+
+Frequently Asked Questions
+Is Mobile Banking free?
+
+Yes.
+
+Can Mobile Banking work abroad?
+
+Yes.
+
+OTP may require international roaming.
+
+Can I use multiple devices?
+
+Only one active device is allowed.
+
+Can I disable biometric login?
+
+Yes.
+
+Is Mobile Banking available 24x7?
+
+Yes.
+
+Except scheduled maintenance.
+
+Error Codes
+MB101
+
+Invalid MPIN
+
+Resolution
+
+Reset MPIN.
+
+MB102
+
+OTP Verification Failed
+
+Retry.
+
+MB103
+
+Customer Blocked
+
+Contact Customer Care.
+
+MB104
+
+Server Busy
+
+Retry later.
+
+MB105
+
+Session Timeout
+
+Login again.
+
+MB106
+
+Rooted Device Detected
+
+Application access denied.
+
+MB107
+
+Application Update Required
+
+Install latest version.
+
+MB108
+
+Registered Mobile Mismatch
+
+Verify SIM.
+
+10. Internet Banking
+Overview
+
+Harsh Bank Internet Banking provides secure browser-based banking services for retail and corporate customers.
+
+Customers can perform financial and non-financial transactions online without visiting a branch.
+
+Features
+Balance Enquiry
+Account Statement
+Fund Transfer
+Beneficiary Management
+Open FD
+Open RD
+Loan Details
+Credit Card Services
+Cheque Book Request
+Stop Cheque Payment
+Tax Payment
+GST Payment
+Utility Bills
+Investments
+Nominee Update Request
+Address Update Request
+Profile Management
+Login Process
+
+Step 1
+
+Open Harsh Bank Internet Banking Portal.
+
+Step 2
+
+Enter Customer ID.
+
+Step 3
+
+Enter Password.
+
+Step 4
+
+Verify OTP.
+
+Step 5
+
+Dashboard opens.
+
+Password Policy
+
+Minimum
+
+8 Characters
+
+Must contain
+
+Uppercase
+Lowercase
+Number
+Special Character
+
+Password expires every
+
+180 Days.
+
+Security Measures
+SSL Encryption
+OTP Authentication
+Login Alerts
+Auto Logout
+Device Monitoring
+Suspicious Login Detection
+IP Monitoring
+Failed Login Attempts
+
+Maximum
+
+3 Attempts.
+
+After that,
+
+Account gets locked.
+
+Unlock Process
+
+Customer may
+
+Reset Password
+
+or
+
+Call Customer Care.
+
+Frequently Asked Questions
+Forgot Password
+
+Click
+
+Forgot Password.
+
+Verify
+
+OTP
+Debit Card
+
+Create new password.
+
+Username Forgotten
+
+Customer ID can be retrieved using
+
+Registered Mobile Number.
+
+Browser Compatibility
+
+Supported
+
+Chrome
+
+Firefox
+
+Edge
+
+Safari
+
+Can Internet Banking be used internationally?
+
+Yes.
+
+OTP verification required.
+
+Common Issues
+Website Not Opening
+
+Possible Reasons
+
+Browser Cache
+Internet Problem
+Maintenance
+
+Resolution
+
+Retry later.
+
+Password Expired
+
+Resolution
+
+Reset Password.
+
+Beneficiary Not Added
+
+Possible Reasons
+
+OTP Failure
+Incorrect IFSC
+Invalid Account Number
+
+Resolution
+
+Verify beneficiary details.
+
+Fund Transfer Failed
+
+Possible Reasons
+
+Low Balance
+Bank Server Down
+Beneficiary Cooling Period
+
+Resolution
+
+Retry after verification.
+
+OTP Delayed
+
+Resolution
+
+Wait for 2 minutes.
+
+Retry.
+
+Error Codes
+IB101
+
+Incorrect Password
+
+IB102
+
+Account Locked
+
+IB103
+
+OTP Failed
+
+IB104
+
+Beneficiary Not Active
+
+IB105
+
+Server Maintenance
+
+IB106
+
+Invalid Customer ID
+
+IB107
+
+Session Expired
+
+IB108
+
+Transaction Timeout
+
+Security Guidelines
+
+Customers should
+
+Never share OTP.
+Never share password.
+Never share CVV.
+Never install unknown applications.
+Always logout after use.
+Verify website URL before login.
+Avoid public Wi-Fi.
+Update password regularly.
+Enable SMS alerts.
+Enable email alerts.
+Customer Support SOP
+
+If customer cannot login
+
+Representative should
+
+Verify customer identity.
+Verify registered mobile number.
+Check account status.
+Verify Internet Banking activation.
+Reset password if required.
+Escalate if system issue.
+
+11. Unified Payments Interface (UPI)
+Overview
+
+Harsh Bank UPI enables customers to make instant bank-to-bank payments using a Virtual Payment Address (VPA), mobile number, QR code, or bank account details. UPI services are available 24x7, including weekends and public holidays.
+
+UPI transactions are processed through the National Payments Corporation of India (NPCI) infrastructure and support real-time fund transfers.
+
+Features
+Instant money transfer
+Scan and Pay using QR Code
+Pay to UPI ID
+Pay to Mobile Number
+Pay to Bank Account and IFSC
+Collect Money Request
+Balance Enquiry
+Merchant Payments
+Utility Bill Payments
+Mobile Recharge
+Credit Card Bill Payment (Eligible Cards)
+Transaction History
+UPI PIN Reset
+Multiple Bank Accounts
+Registration Process
+
+Step 1
+Login to Harsh Bank Mobile Banking App.
+
+Step 2
+Select "Activate UPI."
+
+Step 3
+Verify the registered mobile number.
+
+Step 4
+Choose the bank account.
+
+Step 5
+Create or reset the UPI PIN using the linked debit card.
+
+Step 6
+UPI services become active.
+
+Transaction Limits
+
+Maximum amount per transaction: ₹1,00,000
+
+Maximum number of transactions per day: 20
+
+Merchant payments: As per NPCI guidelines
+
+Common Customer Issues
+Money Debited but Beneficiary Not Credited
+
+Possible Reasons:
+
+NPCI timeout
+Beneficiary bank server issue
+Network interruption
+
+Resolution:
+
+Wait up to 24 hours for automatic reversal.
+Check transaction status.
+If unresolved, raise a dispute with the UTR number.
+Invalid UPI PIN
+
+Possible Reasons:
+
+Incorrect PIN entered
+PIN changed recently
+
+Resolution:
+Reset the UPI PIN using the linked debit card.
+
+UPI Registration Failed
+
+Possible Reasons:
+
+Mobile number not linked with the account
+SIM mismatch
+Inactive debit card
+
+Resolution:
+Verify registered mobile number and active debit card.
+
+Daily Limit Exceeded
+
+Resolution:
+Inform the customer that the daily transaction limit has been reached and advise retrying the next day.
+
+QR Code Payment Failed
+
+Possible Reasons:
+
+Merchant QR inactive
+Merchant bank unavailable
+Internet connectivity issue
+
+Resolution:
+Retry after checking connectivity or ask the merchant for another payment option.
+
+Frequently Asked Questions
+Is UPI available 24x7?
+
+Yes.
+
+Can I change my UPI PIN?
+
+Yes.
+
+Can I link multiple bank accounts?
+
+Yes.
+
+Is there any registration fee?
+
+No.
+
+Can I receive money without sharing account details?
+
+Yes, using your UPI ID.
+
+Error Codes
+
+UPI101 – Invalid UPI PIN
+
+UPI102 – Transaction Timeout
+
+UPI103 – Insufficient Balance
+
+UPI104 – Bank Server Unavailable
+
+UPI105 – Daily Limit Exceeded
+
+UPI106 – Beneficiary Bank Offline
+
+UPI107 – Invalid UPI ID
+
+UPI108 – Mobile Number Not Registered
+
+12. National Electronic Funds Transfer (NEFT)
+Overview
+
+NEFT enables customers to transfer funds electronically from one bank account to another across participating banks in India.
+
+NEFT transactions are available throughout the day and are processed according to banking guidelines.
+
+Features
+Bank-to-bank transfer
+Available through Mobile Banking
+Available through Internet Banking
+Branch transfer facility
+No minimum transfer amount
+Suitable for personal and business payments
+Eligibility
+Savings Account Holders
+Current Account Holders
+Corporate Customers
+Common Customer Queries
+NEFT Transfer Pending
+
+Possible Reasons:
+
+Beneficiary bank delay
+Incorrect beneficiary details
+Scheduled maintenance
+
+Resolution:
+Track the transaction using the reference number and advise the customer to wait for processing.
+
+Incorrect IFSC Code
+
+Resolution:
+The transaction may fail or be rejected. Verify beneficiary details before initiating another transfer.
+
+Beneficiary Not Added
+
+Possible Reasons:
+
+Cooling period not completed
+OTP verification pending
+
+Resolution:
+Complete beneficiary activation before making transfers.
+
+Transaction Limits
+
+Minimum: No minimum amount
+
+Maximum: Subject to customer profile and channel limits
+
+Error Codes
+
+NEFT101 – Invalid IFSC
+
+NEFT102 – Beneficiary Not Active
+
+NEFT103 – Insufficient Balance
+
+NEFT104 – Transaction Timed Out
+
+NEFT105 – Bank Server Busy
+
+13. Real Time Gross Settlement (RTGS)
+Overview
+
+RTGS is used for high-value fund transfers where immediate settlement is required. Transactions are processed individually in real time.
+
+Features
+Real-time settlement
+High-value transfers
+Secure processing
+Available through branch, Internet Banking, and Mobile Banking
+Minimum Amount
+
+₹2,00,000
+
+Maximum Amount
+
+As per customer profile and internal limits.
+
+Common Customer Issues
+RTGS Failed
+
+Possible Reasons:
+
+Beneficiary account incorrect
+Bank server issue
+Regulatory validation failed
+
+Resolution:
+Verify beneficiary details and retry. If the amount has been debited, monitor the transaction status and raise a dispute if required.
+
+Transaction Delayed
+
+Possible Reasons:
+
+Beneficiary bank processing
+Network issue
+
+Resolution:
+Check transaction status using the reference number.
+
+Frequently Asked Questions
+Is RTGS immediate?
+
+Yes, transactions are processed in real time under normal operating conditions.
+
+Can RTGS be cancelled?
+
+Generally, no. Customers should verify beneficiary details carefully before confirming the transaction.
+
+Error Codes
+
+RTGS101 – Minimum Amount Not Met
+
+RTGS102 – Invalid Beneficiary
+
+RTGS103 – Transaction Failed
+
+RTGS104 – Regulatory Validation Error
+
+RTGS105 – Network Timeout
+
+14. Immediate Payment Service (IMPS)
+Overview
+
+IMPS provides instant interbank fund transfers 24x7 through Mobile Banking, Internet Banking, and ATMs. It is suitable for urgent low- and medium-value payments.
+
+Features
+Instant fund transfer
+Available 24x7
+Transfer using account number and IFSC
+Transfer using mobile number (where supported)
+Real-time confirmation
+Transaction Limit
+
+Maximum amount per transaction: ₹5,00,000
+
+Common Customer Issues
+IMPS Transaction Failed
+
+Possible Reasons:
+
+Beneficiary bank unavailable
+Incorrect account number
+Insufficient balance
+Network timeout
+
+Resolution:
+Retry after confirming beneficiary details. If the account has been debited without successful transfer, monitor for automatic reversal and raise a complaint if necessary.
+
+Money Debited but Not Credited
+
+Resolution:
+Most failed transactions are automatically reversed within the expected processing timeline. If not, raise a dispute with the transaction reference number.
+
+Beneficiary Details Incorrect
+
+Resolution:
+The transaction may fail or may be credited to the incorrect account if the entered information is valid but belongs to another customer. Customers should verify beneficiary details carefully before confirming any transfer.
+
+Frequently Asked Questions
+Is IMPS available on holidays?
+
+Yes.
+
+Can IMPS be used at night?
+
+Yes, it is available 24x7.
+
+Is IMPS faster than NEFT?
+
+IMPS provides immediate fund transfer under normal operating conditions.
+
+Error Codes
+
+IMPS101 – Invalid Beneficiary Account
+
+IMPS102 – Invalid IFSC
+
+IMPS103 – Insufficient Balance
+
+IMPS104 – Transaction Timeout
+
+IMPS105 – Beneficiary Bank Unavailable
+
+Customer Support SOP for Digital Payments
+
+When a customer reports a failed digital transaction:
+
+Verify customer identity using the bank's authentication process.
+Obtain the transaction reference number (UTR or equivalent).
+Check the transaction status in the banking system.
+Determine whether the transaction is successful, pending, or failed.
+Inform the customer of the expected resolution timeline.
+If the transaction remains unresolved beyond the standard processing period, register a formal complaint or dispute.
+Advise the customer not to initiate duplicate transactions unless necessary.
+General Security Guidelines
+
+Customers should:
+
+Never share OTP, PIN, MPIN, CVV, or passwords with anyone.
+Verify beneficiary details before making payments.
+Avoid clicking on unknown links claiming to be from the bank.
+Download the Harsh Bank Mobile App only from official app stores.
+Report suspicious activity immediately.
+Keep contact details updated for receiving transaction alerts.
+Regularly review account statements and transaction history.
