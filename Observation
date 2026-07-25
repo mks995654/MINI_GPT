@@ -14,3 +14,4 @@ dropout = 0.2
 
 Best Train Loss ≈ 0.8191
 Best Validation Loss ≈ 1.4134
+
