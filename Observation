@@ -1,1 +1,16 @@
+* Hyperparameters*
 
+Current Configuration -----
+batch_size = 16
+block_size = 128
+max_iters = 5000
+eval_interval = 500
+learning_rate = 3e-3
+eval_iters = 10
+n_embd = 128
+n_head = 4
+n_layer = 2
+dropout = 0.2
+
+Best Train Loss ≈ 0.8191
+Best Validation Loss ≈ 1.4134
